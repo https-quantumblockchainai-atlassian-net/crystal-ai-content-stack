@@ -1,4 +1,6 @@
 # crystal-ai-content-stack
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-content-stack.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-content-stack?ref=badge_shield)
+
 Absolutely! Here’s a comprehensive, production-grade blueprint and quickstart for building the **Crystal AI Content Stack** as a foundation for the Thoth Emerald Cybersecurity Shield and its advanced quantum/AI integrations. This guide covers setup, best practices, licensing, privacy, architecture, and extensibility.
 
 ---
@@ -145,6 +147,9 @@ docker-compose up --build
 - **Third-party attributions** as needed
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-content-stack.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-content-stack?ref=badge_large)
 
 ## 8. **Blueprint: Quickstart Template**
 
